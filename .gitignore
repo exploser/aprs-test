@@ -1,0 +1,9 @@
+*.mp3
+*.wav
+*.bmp
+*.ogg
+*.o
+a.out
+
+.vscode/
+.directory
