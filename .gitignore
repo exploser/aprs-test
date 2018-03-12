@@ -3,6 +3,7 @@
 *.bmp
 *.ogg
 *.o
+*.log
 a.out
 
 .vscode/

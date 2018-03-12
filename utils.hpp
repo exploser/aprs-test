@@ -9,7 +9,7 @@
 
 namespace utils
 {
-static int8_t lut[] = {
+static uint8_t lut[] = {
 #include "sine.txt"
 };
 
